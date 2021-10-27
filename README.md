@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Ponlapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppbasleng&show_icons=true&theme=radical)
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=ppbasleng)
 [![Github](https://img.shields.io/github/followers/ppbasleng?label=Follow&style=social)](https://github.com/ppbasleng)
 
